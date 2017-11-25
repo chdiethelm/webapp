@@ -1,0 +1,4 @@
+apiVersion: v1
+description:  My Sample Spring Boot App Helm Chart
+name: my-app
+version: 0.1.0
